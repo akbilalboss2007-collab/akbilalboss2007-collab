@@ -64,17 +64,37 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+  <a href="https://www.linkedin.com/in/muhammad-bilal-3560203ab/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
-<a href="https://github.com/akbilalboss2007-collab">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+  <a href="https://github.com/akbilalboss2007-collab">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+  <a href="bilalwebdev123@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+  <a href="https://x.com/bilalweb0h">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+
+  <a href="https://www.pinterest.com/Bilalwebtemplate/">
+    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" />
+  </a>
+
+  <a href="https://www.fiverr.com/bilalsheikh447?public_mode=true">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>
+
+  <a href="[https://www.upwork.com/freelancers/~YOUR_ID](https://www.upwork.com/freelancers/~01d3483c42416ed1ad)">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+
+  <a href="https://www.freelancer.com/u/Muhammadb382">
+    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" />
+  </a>
 </p>
 
 ---
