@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bilal Sheikh</h1>
+<h1 align="center">Assalam-O-Alaikum 👋, I'm Bilal</h1>
 <h3 align="center">🚀 Full Stack Developer | React.js • Next.js • Node.js</h3>
 
 <p align="center">
@@ -30,9 +30,9 @@
 
 - 🌐 Portfolio Website
 - 🛍️ E-Commerce Website
-- 📚 LMS Dashboard
-- 🏢 Business Landing Page
-- 💼 Admin Dashboard
+- 📚 Career Website
+- 🏢 Storage related Website
+- 💼 Amazone Website clone home page only
 
 ---
 
