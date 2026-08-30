@@ -1,154 +1,221 @@
-<h1 align="center">👋 Assalam-O-Alaikum, I'm Bilal</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Full Stack Developer | React.js | Next.js | Node.js | MySQL
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Bilal%20Sheikh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20Modern%20Web%20Experiences&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://bilalportfolioweb.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-black?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/akbilalboss2007-collab" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=8A2BE2&center=true&vCenter=true&width=750&lines=Assalam-O-Alaikum+%F0%9F%91%8B;I'm+Bilal+%F0%9F%9A%80;Full+Stack+Web+Developer+%F0%9F%92%BB;React.js+%7C+Next.js+%7C+Node.js;Building+Modern+%26+Scalable+Web+Apps;Always+Learning+%26+Building+%F0%9F%94%A5" alt="Typing SVG" />
 
-## 🚀 About Me
+<br/>
 
-I'm a **Full Stack Web Developer** passionate about building modern, responsive and user-friendly web applications.
+<img src="https://komarev.com/ghpvc/?username=akbilalboss2007-collab&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
 
-* 💻 Building **Full Stack Web Applications**
-* ⚛️ Working with **React.js & Next.js**
-* 🟢 Developing backend applications with **Node.js**
-* 🗄️ Working with **MySQL & databases**
-* 🎨 Creating responsive interfaces with **Tailwind CSS & Bootstrap**
-* 🔧 Using **Git & GitHub** for version control
-* 🌱 Always learning new technologies
-* 💼 Open to **freelance projects, internships and developer opportunities**
+<img src="https://img.shields.io/github/followers/akbilalboss2007-collab?label=Followers&style=for-the-badge&color=302b63" />
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 About Me
+
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+```javascript
+const bilal = {
+    role: "Full Stack Developer",
+    location: "Pakistan 🇵🇰",
+
+    frontend: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Bootstrap",
+        "Tailwind CSS",
+        "React.js",
+        "Next.js"
+    ],
+
+    backend: [
+        "Node.js",
+        "MySQL"
+    ],
+
+    tools: [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Vercel"
+    ],
+
+    currentlyLearning: [
+        "Advanced Next.js",
+        "Backend Development",
+        "System Design"
+    ],
+
+    mindset: "Build → Learn → Improve 🚀"
+};
+```
+
+<br clear="right"/>
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
 
 ### 🎨 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs&theme=dark" />
 
-### ⚙️ Backend
+### ⚙️ Backend & Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,mysql&theme=dark" />
 
-### 🔧 Tools & Platforms
+### 🛠️ Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
+
+</div>
 
 ---
 
-## 💻 Featured Projects
+## 🚀 What I Build
 
-### 🛒 E-Commerce Website
+<div align="center">
 
-A responsive e-commerce website built with modern frontend technologies.
+| 💻 Development            | 🚀 Technologies          |
+| ------------------------- | ------------------------ |
+| 🌐 Modern Websites        | HTML • CSS • JavaScript  |
+| ⚛️ Frontend Apps          | React.js • Next.js       |
+| 🟢 Backend Systems        | Node.js                  |
+| 🗄️ Database Applications | MySQL                    |
+| 📱 Responsive UI          | Tailwind CSS • Bootstrap |
+| 🔌 API Integration        | REST APIs                |
+| 🛒 E-Commerce             | Full Stack Architecture  |
 
-**Tech:** HTML • CSS • Bootstrap • JavaScript
-
-🔗 **Repository:**
-https://github.com/akbilalboss2007-collab/Bootstrap-website
-
----
-
-### 📦 Storage Website
-
-A responsive storage website focused on clean UI, responsiveness and user experience.
-
-🔗 **Live Demo:**
-https://akbilalboss2007-collab.github.io/storage-website/
+</div>
 
 ---
 
-### 🌐 Personal Portfolio
+## 🔥 Featured Projects
 
-My personal developer portfolio showcasing my skills, projects and services.
+<div align="center">
 
-**Tech:** Next.js • React.js • Tailwind CSS
+<a href="https://github.com/akbilalboss2007-collab/Portfolio_Code">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akbilalboss2007-collab&repo=Portfolio_Code&theme=tokyonight&hide_border=true" />
+</a>
 
-🔗 **Live Portfolio:**
-https://bilalportfolioweb.vercel.app/
+<a href="https://github.com/akbilalboss2007-collab/Bootstrap-website">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akbilalboss2007-collab&repo=Bootstrap-website&theme=tokyonight&hide_border=true" />
+</a>
+
+<br/>
+
+<a href="https://github.com/akbilalboss2007-collab/storage-website">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akbilalboss2007-collab&repo=storage-website&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
-I regularly work on:
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=akbilalboss2007-collab&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbilboss2007-collab&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=akbilalboss2007-collab&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
+---
+
+## 🐍 My Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/akbilalboss2007-collab/akbilalboss2007-collab/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=akbilalboss2007-collab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
+
+</div>
+
+---
+
+## 📈 My Developer Journey
 
 ```text
-Frontend Development
-Backend Development
-Full Stack Applications
-UI/UX Improvements
-Database Integration
-API Development
-Responsive Web Design
+2024  ────────────────► Started Web Development
+                         │
+                         ▼
+2025  ────────────────► Frontend Development
+                         │
+                         ▼
+2026  ────────────────► Full Stack Development 🚀
+                         │
+                         ▼
+        Next Goal ─────► Build Production-Ready Applications
 ```
-
-> 💡 Check my repositories to explore my latest projects and experiments.
 
 ---
 
-## 🎯 What I Can Build
+## 💼 Open For Opportunities
+
+<div align="center">
 
 ```text
-🌐 Business Websites
-🛒 E-Commerce Websites
-💼 Portfolio Websites
-📱 Responsive Web Applications
-⚛️ React Applications
-▲ Next.js Applications
-🟢 Node.js Backends
-🗄️ MySQL Database Systems
-🔌 REST APIs
+💻 Freelance Projects
+🚀 Full Stack Development
+🧑‍💻 Internships
+🌐 Remote Opportunities
+💼 Junior Developer Roles
 ```
 
----
-
-## 💼 Currently Open For
-
-* 💻 Freelance Web Development
-* 🌐 Full Stack Projects
-* 🧑‍💻 Frontend / Backend Development
-* 🚀 Internship Opportunities
-* 💼 Junior Full Stack Developer Roles
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
-<p align="center">
+<div align="center">
 
 <a href="https://bilalportfolioweb.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-8A2BE2?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/akbilalboss2007-collab">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile!
-</h3>
+<div align="center">
 
-<p align="center">
-💙 Let's build something amazing together.
-</p>
+### 💜 "Code. Create. Learn. Repeat."
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+</div>
