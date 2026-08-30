@@ -32,44 +32,6 @@
 
 I'm a **Full Stack Web Developer** passionate about creating modern, responsive and user-friendly web applications.
 
-```javascript
-const bilal = {
-    name: "Bilal Sheikh",
-    role: "Full Stack Developer",
-    location: "Pakistan 🇵🇰",
-
-    frontend: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Bootstrap",
-        "Tailwind CSS",
-        "React.js",
-        "Next.js"
-    ],
-
-    backend: [
-        "Node.js",
-        "MySQL"
-    ],
-
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Vercel"
-    ],
-
-    currentlyLearning: [
-        "Advanced Next.js",
-        "Backend Development",
-        "APIs"
-    ],
-
-    goal: "Build scalable production-ready apps 🚀"
-};
-```
-
 <br clear="right"/>
 
 ---
