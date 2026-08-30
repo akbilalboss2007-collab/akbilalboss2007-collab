@@ -120,27 +120,26 @@ const bilal = {
 
 ---
 
-# 📊 GitHub Analytics
+📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akbilalboss2007-collab&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=akbilalboss2007-collab&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=1800" width="48%" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbilboss2007-collab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbilalboss2007-collab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="42%" alt="Top Languages"/>
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=akbilalboss2007-collab&theme=tokyonight&hide_border=true" width="75%"/>
+<img src="https://streak-stats.demolab.com?user=akbilalboss2007-collab&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="75%" alt="GitHub Streak"/>
 
 </div>
-
 ---
 
-## 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <div align="center">
 
@@ -150,11 +149,11 @@ const bilal = {
 
 ---
 
-# 🏆 GitHub Trophies
+🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=akbilalboss2007-collab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=akbilalboss2007-collab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -332,78 +331,5 @@ Database Integration
 </div>
 ```
 
-### 2️⃣ `.github/workflows/snake.yml`
 
-Ab **same profile repository** mein folders banao:
-
-```text
-.github
-└── workflows
-    └── snake.yml
-```
-
-Is file mein ye **exact code** paste karo:
-
-```yaml
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: akbilalboss2007-collab
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Deploy to output branch
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          force_orphan: true
-```
-
-### ⚙️ Last setting — **ye zaroor karna**
-
-Profile repo mein:
-
-**Settings → Actions → General → Workflow permissions**
-
-wahan:
-
-**Read and write permissions**
-
-select karo → **Save**.
-
-Phir:
-
-**Actions → Generate Contribution Snake → Run workflow**
-
-click karo.
-
-Successful hone ke baad `output` branch automatically ban jayegi.
-
-Uske baad README mein ye image:
-
-```text
-https://raw.githubusercontent.com/akbilalboss2007-collab/akbilalboss2007-collab/output/github-contribution-grid-snake-dark.svg
-```
-
-automatically show hogi.
-
-**Bas ek warning:** agar `github-readme-stats.vercel.app` ya `streak-stats.demolab.com` kabhi unavailable ho, unki images temporarily nahi dikhen gi. **Snake ka generation tumhare GitHub Actions se hoga**, isliye uska setup independent hai.
  bro snake to agya h lekin kuch kuch img nhi ayi h abhi
