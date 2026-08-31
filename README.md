@@ -276,15 +276,15 @@ Database Integration
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PINTEREST_LINK_HERE">
+<a href="https://www.pinterest.com/Bilalwebtemplate/">
 <img src="https://img.shields.io/badge/Pinterest-Follow-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/>
 </a>
 
-<a href="YOUR_FIVERR_LINK_HERE">
+<a href="https://www.fiverr.com/bilalsheikh447?public_mode=true">
 <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
 </a>
 
-<a href="YOUR_TWITTER_X_LINK_HERE">
+<a href="https://x.com/bilalweb0h">
 <img src="https://img.shields.io/badge/Twitter%20%2F%20X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
