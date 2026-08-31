@@ -65,17 +65,9 @@ I'm a **Full Stack Web Developer** passionate about creating modern, responsive 
 <div align="center">
 
 <a href="https://github.com/akbilalboss2007-collab/Portfolio_Code">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akbilalboss2007-collab&repo=Portfolio_Code&theme=tokyonight&hide_border=true&cache_seconds=86400" width="45%" />
-</a>
 
-<a href="https://github.com/akbilalboss2007-collab/Bootstrap-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akbilalboss2007-collab&repo=Bootstrap-website&theme=tokyonight&hide_border=true&cache_seconds=86400" width="45%" />
-</a>
+<img src="./.github/assets/projects.svg" width="100%" alt="Featured Projects"/>
 
-<br><br>
-
-<a href="https://github.com/akbilalboss2007-collab/storage-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akbilalboss2007-collab&repo=storage-website&theme=tokyonight&hide_border=true&cache_seconds=86400" width="45%" />
 </a>
 
 </div>
