@@ -28,11 +28,44 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="390" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
 
-I'm a **Full Stack Web Developer** passionate about creating modern, responsive and user-friendly web applications.
+<img align="right" width="390" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding"/>
+
+### 🚀 Full Stack Web Developer
+
+I'm **Bilal Sheikh**, a passionate **Full Stack Web Developer** from Pakistan 🇵🇰, focused on building modern, responsive and user-friendly web applications.
+
+I enjoy turning ideas into **real-world digital experiences** using modern frontend and backend technologies.
+
+<br>
+
+💻 **Frontend Development**  
+HTML • CSS • JavaScript • Bootstrap • Tailwind CSS • React.js • Next.js
+
+⚙️ **Backend Development**  
+Node.js • REST APIs • MySQL • Database Integration
+
+🛠️ **Development Tools**  
+Git • GitHub • VS Code • Vercel
+
+<br>
+
+🌱 Currently focused on **Advanced Next.js, Backend Development & APIs**
+
+🚀 My goal is to build **scalable, performant and production-ready applications**.
+
+</div>
 
 <br clear="right"/>
+
+<div align="center">
+
+### 💡 What Drives Me
+
+**Clean Code • Modern UI • Performance • Problem Solving • Continuous Learning**
+
+</div>
 
 ---
 
