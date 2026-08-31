@@ -265,12 +265,34 @@ Database Integration
 <div align="center">
 
 <a href="https://bilalportfolioweb.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://github.com/akbilalboss2007-collab">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<a href="https://www.linkedin.com/in/muhammad-bilal-3560203ab/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PINTEREST_LINK_HERE">
+<img src="https://img.shields.io/badge/Pinterest-Follow-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/>
+</a>
+
+<a href="YOUR_FIVERR_LINK_HERE">
+<img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+</a>
+
+<a href="YOUR_TWITTER_X_LINK_HERE">
+<img src="https://img.shields.io/badge/Twitter%20%2F%20X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<br><br>
+
+### 💼 Available for Freelance & Development Opportunities
+
+**Full Stack Web Development • React.js • Next.js • Node.js • MySQL**
 
 </div>
 
