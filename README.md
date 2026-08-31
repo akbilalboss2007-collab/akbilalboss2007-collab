@@ -113,11 +113,13 @@ I'm a **Full Stack Web Developer** passionate about creating modern, responsive 
 
 ---
 
+---
+
 # 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=akbilalboss2007-collab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=6" width="100%" alt="GitHub Trophies"/>
+<img src="./.github/assets/trophy.svg" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
