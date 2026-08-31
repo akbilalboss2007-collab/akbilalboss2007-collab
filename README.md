@@ -111,11 +111,13 @@ I'm a **Full Stack Web Developer** passionate about creating modern, responsive 
 
 ---
 
-🏆 GitHub Trophies
+---
+
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=akbilalboss2007-collab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=akbilalboss2007-collab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=6" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
