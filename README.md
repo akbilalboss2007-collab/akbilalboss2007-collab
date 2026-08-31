@@ -74,13 +74,13 @@ I'm a **Full Stack Web Developer** passionate about creating modern, responsive 
 
 ---
 
-📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akbilalboss2007-collab&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=1800" width="48%" alt="GitHub Stats"/>
+<img src="./profile/stats.svg" width="48%" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbilalboss2007-collab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="42%" alt="Top Languages"/>
+<img src="./profile/top-langs.svg" width="42%" alt="Top Languages"/>
 
 </div>
 
