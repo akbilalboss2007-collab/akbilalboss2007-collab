@@ -1,0 +1,175 @@
+<svg width="1000" height="520" viewBox="0 0 1000 520" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="50%" stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#24243e"/>
+    </linearGradient>
+
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#17132f"/>
+      <stop offset="100%" stop-color="#242044"/>
+    </linearGradient>
+
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="520" rx="24" fill="url(#bg)"/>
+
+  <!-- Title -->
+  <text
+    x="500"
+    y="55"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="30"
+    font-weight="bold"
+    fill="#ffffff">
+    🚀 Featured Projects
+  </text>
+
+  <!-- Project 1 -->
+  <a href="https://github.com/akbilalboss2007-collab/Portfolio_Code">
+    <g filter="url(#shadow)">
+      <rect x="40" y="90" width="440" height="175" rx="18" fill="url(#card)" stroke="#8A2BE2" stroke-width="2"/>
+
+      <text x="65" y="130"
+            font-family="Arial, sans-serif"
+            font-size="25"
+            font-weight="bold"
+            fill="#ffffff">
+        🌐 Portfolio Website
+      </text>
+
+      <text x="65" y="165"
+            font-family="Arial, sans-serif"
+            font-size="16"
+            fill="#c9c9d6">
+        Personal portfolio built with
+      </text>
+
+      <text x="65" y="192"
+            font-family="Arial, sans-serif"
+            font-size="16"
+            fill="#ffffff">
+        React • Next.js • Tailwind CSS
+      </text>
+
+      <text x="65" y="232"
+            font-family="Arial, sans-serif"
+            font-size="14"
+            fill="#8A2BE2">
+        View Repository →
+      </text>
+    </g>
+  </a>
+
+  <!-- Project 2 -->
+  <a href="https://github.com/akbilalboss2007-collab/Bootstrap-website">
+    <g filter="url(#shadow)">
+      <rect x="520" y="90" width="440" height="175" rx="18" fill="url(#card)" stroke="#8A2BE2" stroke-width="2"/>
+
+      <text x="545" y="130"
+            font-family="Arial, sans-serif"
+            font-size="25"
+            font-weight="bold"
+            fill="#ffffff">
+        🎨 Bootstrap Website
+      </text>
+
+      <text x="545" y="165"
+            font-family="Arial, sans-serif"
+            font-size="16"
+            fill="#c9c9d6">
+        Responsive modern website
+      </text>
+
+      <text x="545" y="192"
+            font-family="Arial, sans-serif"
+            font-size="16"
+            fill="#ffffff">
+        HTML • CSS • Bootstrap • JavaScript
+      </text>
+
+      <text x="545" y="232"
+            font-family="Arial, sans-serif"
+            font-size="14"
+            fill="#8A2BE2">
+        View Repository →
+      </text>
+    </g>
+  </a>
+
+  <!-- Project 3 -->
+  <a href="https://github.com/akbilalboss2007-collab/storage-website">
+    <g filter="url(#shadow)">
+      <rect x="40" y="295" width="440" height="175" rx="18" fill="url(#card)" stroke="#8A2BE2" stroke-width="2"/>
+
+      <text x="65" y="335"
+            font-family="Arial, sans-serif"
+            font-size="25"
+            font-weight="bold"
+            fill="#ffffff">
+        ☁️ Storage Website
+      </text>
+
+      <text x="65" y="370"
+            font-family="Arial, sans-serif"
+            font-size="16"
+            fill="#c9c9d6">
+        Modern responsive storage project
+      </text>
+
+      <text x="65" y="397"
+            font-family="Arial, sans-serif"
+            font-size="16"
+            fill="#ffffff">
+        HTML • CSS • JavaScript
+      </text>
+
+      <text x="65" y="437"
+            font-family="Arial, sans-serif"
+            font-size="14"
+            fill="#8A2BE2">
+        View Repository →
+      </text>
+    </g>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/akbilalboss2007-collab">
+    <g filter="url(#shadow)">
+      <rect x="520" y="295" width="440" height="175" rx="18" fill="url(#card)" stroke="#8A2BE2" stroke-width="2"/>
+
+      <text x="740" y="350"
+            text-anchor="middle"
+            font-family="Arial, sans-serif"
+            font-size="28"
+            font-weight="bold"
+            fill="#ffffff">
+        💻 More Projects
+      </text>
+
+      <text x="740" y="390"
+            text-anchor="middle"
+            font-family="Arial, sans-serif"
+            font-size="17"
+            fill="#c9c9d6">
+        Explore my GitHub repositories
+      </text>
+
+      <text x="740" y="430"
+            text-anchor="middle"
+            font-family="Arial, sans-serif"
+            font-size="15"
+            fill="#8A2BE2">
+        Visit GitHub Profile →
+      </text>
+    </g>
+  </a>
+
+</svg>
