@@ -1,0 +1,183 @@
+name: Generate GitHub Streak
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Streak
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require("fs");
+
+            const username = "akbilalboss2007-collab";
+
+            const query = `
+              query($login: String!) {
+                user(login: $login) {
+                  contributionsCollection {
+                    contributionCalendar {
+                      totalContributions
+                      weeks {
+                        contributionDays {
+                          date
+                          contributionCount
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            `;
+
+            const result = await github.graphql(query, {
+              login: username
+            });
+
+            const calendar =
+              result.user.contributionsCollection.contributionCalendar;
+
+            const days = calendar.weeks
+              .flatMap(week => week.contributionDays)
+              .sort((a, b) => a.date.localeCompare(b.date));
+
+            let currentStreak = 0;
+            let longestStreak = 0;
+            let tempStreak = 0;
+
+            for (let i = 0; i < days.length; i++) {
+              if (days[i].contributionCount > 0) {
+                tempStreak++;
+                longestStreak = Math.max(longestStreak, tempStreak);
+              } else {
+                tempStreak = 0;
+              }
+            }
+
+            for (let i = days.length - 1; i >= 0; i--) {
+              if (days[i].contributionCount > 0) {
+                currentStreak++;
+              } else {
+                break;
+              }
+            }
+
+            const total = calendar.totalContributions;
+
+            const svg = `
+            <svg width="850" height="220" viewBox="0 0 850 220"
+                 xmlns="http://www.w3.org/2000/svg">
+
+              <rect width="850" height="220" rx="12"
+                    fill="#0d1117"/>
+
+              <text x="425" y="48"
+                    text-anchor="middle"
+                    font-family="Arial, sans-serif"
+                    font-size="28"
+                    font-weight="bold"
+                    fill="#58a6ff">
+                🔥 GitHub Streak
+              </text>
+
+              <text x="425" y="82"
+                    text-anchor="middle"
+                    font-family="Arial, sans-serif"
+                    font-size="16"
+                    fill="#8b949e">
+                ${username}
+              </text>
+
+              <rect x="55" y="110" width="220" height="70"
+                    rx="10" fill="#161b22"/>
+
+              <text x="165" y="137"
+                    text-anchor="middle"
+                    font-family="Arial, sans-serif"
+                    font-size="14"
+                    fill="#8b949e">
+                Current Streak
+              </text>
+
+              <text x="165" y="166"
+                    text-anchor="middle"
+                    font-family="Arial, sans-serif"
+                    font-size="26"
+                    font-weight="bold"
+                    fill="#f0f6fc">
+                ${currentStreak} days
+              </text>
+
+              <rect x="315" y="110" width="220" height="70"
+                    rx="10" fill="#161b22"/>
+
+              <text x="425" y="137"
+                    text-anchor="middle"
+                    font-family="Arial, sans-serif"
+                    font-size="14"
+                    fill="#8b949e">
+                Longest Streak
+              </text>
+
+              <text x="425" y="166"
+                    text-anchor="middle"
+                    font-family="Arial, sans-serif"
+                    font-size="26"
+                    font-weight="bold"
+                    fill="#f0f6fc">
+                ${longestStreak} days
+              </text>
+
+              <rect x="575" y="110" width="220" height="70"
+                    rx="10" fill="#161b22"/>
+
+              <text x="685" y="137"
+                    text-anchor="middle"
+                    font-family="Arial, sans-serif"
+                    font-size="14"
+                    fill="#8b949e">
+                Contributions
+              </text>
+
+              <text x="685" y="166"
+                    text-anchor="middle"
+                    font-family="Arial, sans-serif"
+                    font-size="26"
+                    font-weight="bold"
+                    fill="#f0f6fc">
+                ${total}
+              </text>
+
+            </svg>
+            `;
+
+            fs.mkdirSync(".github/assets", { recursive: true });
+
+            fs.writeFileSync(
+              ".github/assets/github-streak.svg",
+              svg.trim()
+            );
+
+      - name: Commit Streak SVG
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add .github/assets/github-streak.svg
+
+          git diff --cached --quiet || git commit -m "Update GitHub streak"
+
+          git push
