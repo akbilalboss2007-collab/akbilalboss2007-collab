@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=8A2BE2&center=true&vCenter=true&width=850&lines=Assalam-O-Alaikum+%F0%9F%91%8B;I'm+Bilal+%F0%9F%9A%80;Full+Stack+Web+Developer+%F0%9F%92%BB;React.js+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications;Turning+Ideas+Into+Digital+Experiences;Always+Learning+%26+Building+%F0%9F%94%A5" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=8A2BE2&center=true&vCenter=true&width=850&lines=Assalam-O-Alaikum+%F0%9F%91%8B;I'm+Bilal+%F0%9F%9A%80;Full+Stack+Engineer+%F0%9F%92%BB;React.js+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications;Turning+Ideas+Into+Digital+Experiences;Always+Learning+%26+Building+%F0%9F%94%A5" alt="Typing Animation"/>
 
 <br><br>
 
@@ -32,7 +32,7 @@
 
 <img align="right" width="390" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer Coding"/>
 
-### 🚀 Full Stack Web Developer
+### 🚀 Full Stack Engineer
 
 I'm **Bilal Sheikh**, a passionate **Full Stack Web Developer** from Pakistan 🇵🇰, focused on building modern, responsive and user-friendly web applications.
 
